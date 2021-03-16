@@ -10,3 +10,10 @@ print(type(a))
 print(type(b))
 print(type(c))
 
+print("enter first name")
+f_name = input("firstname: ")
+
+print("enter last name")
+l_name = input("Lasttname: ")
+
+print (f"hello {f_name} {l_name}")
