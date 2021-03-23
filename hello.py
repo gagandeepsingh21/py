@@ -15,5 +15,5 @@ f_name = input("firstname: ")
 
 print("enter last name")
 l_name = input("Lasttname: ")
-
 print (f"hello {f_name} {l_name}")
+print("Hello "+f_name+ " "+ l_name)
